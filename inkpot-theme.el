@@ -101,7 +101,7 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
         '(font-lock-builtin-face ((t (:foreground "#c080d0"))))
         '(font-lock-comment-face ((t (:foreground "#cd8b00")))) ; original inkpot: #cd8b00
-        '(font-lock-comment-face ((t (:foreground "#708090")))) ; original inkpot: #cd8b00
+        ;'(font-lock-comment-face ((t (:foreground "#708090")))) ; alternate comment face
         '(font-lock-constant-face ((t (:foreground "808bed"))))
         '(font-lock-doc-face ((t (:foreground "#cd8b00"))))
         '(font-lock-function-name-face ((t (:foreground "#87cefa"))))
