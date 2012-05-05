@@ -128,4 +128,4 @@
 
 (provide-theme 'inkpot)
 
-;;; inkpot.el ends here
+;;; inkpot-theme.el ends here
