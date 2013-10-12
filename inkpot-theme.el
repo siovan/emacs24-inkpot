@@ -14,6 +14,7 @@
         '(font-lock-builtin-face ((t (:foreground "#cfbfad"))))
         '(region ((t (:background "#404040"))))
         '(highlight ((t (:background "#404040"))))
+	'(hl-line ((t (:background "#202042"))))
         '(fringe ((t (:background "#1e1e27" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#708090" :foreground "#cfdfef"))))
         '(show-paren-match-face ((t (:background "#606060"))))
